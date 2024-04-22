@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #fbbc02;
+}
+
+
+.formulario{
+    width: 450px;
+    background-color: white;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.flex{
+    
+    /* width: 400px */
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    font-size: 18px;
+}
+
+
+.formulario  input {
+    border-radius: 7px;
+    padding: 5px 10px ;
+    
+}
+
+.boton{
+    background-color: beige;
+}
+
+.logo{
+    width:220px;
+}
+
+.contenedor_logo{
+    padding: 65px 65px 30px 110px;
+    
+    
+}
+
+.contenedor_titulo_ingresa{
+    padding: 0px 0px 30px 160px;
+    
+}
+
